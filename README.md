@@ -1,15 +1,10 @@
 # 🌱 Shakti RISC-V Pest Detection System
 
-## 🚀 Complete Agricultural AI System for Embedded Deployment
+## Complete Agricultural AI System for Embedded Deployment
 
 **A comprehensive, production-ready pest detection system optimized for Shakti E-class RISC-V processor on Arty A7-35T FPGA board.**
 
 A **RISC-V Shakti-based system** for detecting pests and crop diseases using camera-based image analysis. This system provides real-time monitoring of crops and alerts farmers about potential threats, enabling timely intervention to minimize crop damage.
-
-**Team Members:**
-- Hrishikesh S Raj (RA2211003011880)
-- Rewant Raj (RA2211003011884) 
-- Syed Wamiq (RA2211003010768)
 
 ## 🚀 Quick Start (Fixed & Working!)
 
@@ -30,7 +25,7 @@ python3 ultimate_shakti_demo.py --mode benchmark
 python3 ultimate_shakti_demo.py --generate-package
 ```
 
-**🎯 Current Status**: ✅ **CLEANED & FIXED** - Interactive demo working perfectly!
+**🎯 Current Status**: 
 
 ### 🧹 Recent Project Cleanup
 - ✅ **Fixed Interactive Demo**: No more hardware interrupt loops
@@ -52,7 +47,7 @@ python3 ultimate_shakti_demo.py --generate-package
 - **Performance Monitoring**: FPS tracking, detection statistics
 - **Configurable System**: JSON-based configuration
 
-### 🔄 **Ready for Hardware** (Tomorrow)
+### 🔄 **Ready for Hardware**
 - RISC-V optimized code structure
 - Modular design for easy hardware integration
 - Camera interface preparation
@@ -119,7 +114,7 @@ pest-detection/
 
 ## 🛠️ Development Approach
 
-### Phase 1: ✅ **Software Development** (Current)
+### Phase 1: ✅ **Software Development** 
 **Status**: **COMPLETED** 🎉
 - ✅ Core algorithms implemented
 - ✅ Simulation environment ready
@@ -127,7 +122,7 @@ pest-detection/
 - ✅ Documentation complete
 - ✅ Demo ready for presentation
 
-### Phase 2: 🔄 **Hardware Integration** (Tomorrow)
+### Phase 2: 🔄 **Hardware Integration**
 **When Arty A7 board arrives**:
 1. **Hardware Setup**: Camera + Shakti board integration
 2. **Code Deployment**: Transfer optimized algorithms to RISC-V
@@ -193,7 +188,7 @@ Create `config.json` for custom settings:
 | **Memory Usage** | <100MB | ✅ ~50MB |
 | **Power Consumption** | <5W | ⏳ TBD (hardware testing) |
 
-## 🚀 Next Steps (Hardware Day)
+## 🚀 Next Steps
 
 1. **🔌 Hardware Setup**
    - Connect camera module to Arty A7
@@ -219,7 +214,6 @@ Create `config.json` for custom settings:
 
 - **[Getting Started Guide](docs/getting_started.md)**: Complete setup instructions
 - **[Development Roadmap](docs/development_roadmap.md)**: Detailed project timeline
-- **[Project Proposal](project.txt)**: Original requirements and objectives
 
 ## 🎯 Project Benefits
 
@@ -230,7 +224,7 @@ Create `config.json` for custom settings:
 
 ## 👨‍💻 Development Status
 
-**Ready for Demo**: The system is fully functional in simulation mode and ready for demonstration. All core components are implemented, tested, and documented. Hardware integration will be seamless once the Arty A7 board is available.
+**Ready for Demo**: The system is fully functional in simulation mode and ready for demonstration. All core components are implemented, tested, and documented. Hardware integration seamless once on the Arty A7 board.
 
 **Confidence Level**: 🟢 **High** - Well-structured, tested, and documented codebase ready for hardware deployment.
 
