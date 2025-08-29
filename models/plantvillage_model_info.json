@@ -1,0 +1,13 @@
+{
+  "model_type": "random_forest",
+  "classes": [
+    "healthy",
+    "leaf_spot"
+  ],
+  "train_accuracy": 0.9797979797979798,
+  "test_accuracy": 1.0,
+  "feature_dimensions": 19,
+  "training_samples": 99,
+  "test_samples": 25,
+  "training_time": 0.1773538589477539
+}
