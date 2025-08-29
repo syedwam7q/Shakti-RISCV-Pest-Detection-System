@@ -414,6 +414,9 @@ SRAM (64KB):   Stack + real-time data
 **Focus**: Embedded AI for agricultural applications  
 **Specialization**: RISC-V optimization, real-time systems, computer vision
 
+## 🙌 Credits
+- Lead Contributor: Syed Wamiq
+
 ---
 
 ## 📄 **License**

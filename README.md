@@ -237,5 +237,4 @@ Create `config.json` for custom settings:
 ## 🙌 Credits
 
 - Lead Contributor: Syed Wamiq
-- Team Members: Hrishikesh S Raj, Rewant Raj
 - See `CREDITS.md` for details.
