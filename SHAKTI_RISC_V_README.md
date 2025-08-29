@@ -26,37 +26,37 @@ This project implements a complete agricultural pest detection system with advan
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
-│                    SHAKTI RISC-V PEST DETECTION SYSTEM     │
+│                    SHAKTI RISC-V PEST DETECTION SYSTEM      │
 ├─────────────────────────────────────────────────────────────┤
 │  🎨 VISUALIZATION LAYER                                     │
-│  ├── Detection Visualizer (Bounding Boxes, Heatmaps)       │
-│  ├── Dashboard Generator (Real-time Analytics)             │
-│  ├── Report Generator (Comprehensive Analysis)             │
-│  └── Bounding Box Detector (Region Detection)              │
+│  ├── Detection Visualizer (Bounding Boxes, Heatmaps)        │
+│  ├── Dashboard Generator (Real-time Analytics)              │
+│  ├── Report Generator (Comprehensive Analysis)              │
+│  └── Bounding Box Detector (Region Detection)               │
 ├─────────────────────────────────────────────────────────────┤
 │  ⚡ SHAKTI RISC-V OPTIMIZATION LAYER                        │
-│  ├── Shakti Optimizer (Performance & Power)                │
-│  ├── Memory Manager (256MB DDR3 Optimization)              │
-│  ├── Fixed-Point Processor (RISC-V Math)                   │
-│  └── Hardware Interface (Arty A7-35T)                      │
+│  ├── Shakti Optimizer (Performance & Power)                 │
+│  ├── Memory Manager (256MB DDR3 Optimization)               │
+│  ├── Fixed-Point Processor (RISC-V Math)                    │
+│  └── Hardware Interface (Arty A7-35T)                       │
 ├─────────────────────────────────────────────────────────────┤
-│  🔧 HARDWARE ABSTRACTION LAYER                             │
-│  ├── GPIO Controller (LEDs, Buttons, Switches)             │
-│  ├── Camera Interface (Image Capture)                      │
-│  ├── UART Communication (Debug & Monitoring)               │
-│  └── Power Management (Clock Gating, Scaling)              │
+│  🔧 HARDWARE ABSTRACTION LAYER                              │
+│  ├── GPIO Controller (LEDs, Buttons, Switches)              │
+│  ├── Camera Interface (Image Capture)                       │
+│  ├── UART Communication (Debug & Monitoring)                │
+│  └── Power Management (Clock Gating, Scaling)               │
 ├─────────────────────────────────────────────────────────────┤
 │  🌱 CORE ALGORITHMS                                         │
-│  ├── Enhanced Pest Detector (Multi-class)                  │
-│  ├── Image Processor (Optimized Pipeline)                  │
-│  ├── ML Classifier (PlantVillage Dataset)                  │
-│  └── Feature Extractor (Real-time Features)                │
+│  ├── Enhanced Pest Detector (Multi-class)                   │
+│  ├── Image Processor (Optimized Pipeline)                   │
+│  ├── ML Classifier (PlantVillage Dataset)                   │
+│  └── Feature Extractor (Real-time Features)                 │
 ├─────────────────────────────────────────────────────────────┤
 │  📱 C IMPLEMENTATION                                        │
-│  ├── Cross-compilation Toolchain                           │
-│  ├── Memory-optimized Algorithms                           │
-│  ├── Hardware-specific Optimizations                       │
-│  └── Real-time Guarantees                                  │
+│  ├── Cross-compilation Toolchain                            │
+│  ├── Memory-optimized Algorithms                            │
+│  ├── Hardware-specific Optimizations                        │
+│  └── Real-time Guarantees                                   │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -436,7 +436,7 @@ Educational and research use. Commercial deployment requires licensing.
 ---
 
 ## 📞 **Contact**
-
+-> sdirwamiq@gmail.com
 For technical questions, deployment assistance, or research collaboration.
 
 ---
